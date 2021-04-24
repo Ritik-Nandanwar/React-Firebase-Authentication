@@ -1,0 +1,10 @@
+var firebaseConfig = {
+    apiKey: "AIzaSyD-2t5thwFYfyIveZzvyGtqg7y2bsQWCSM",
+    authDomain: "react-firebase-auth-8d71d.firebaseapp.com",
+    projectId: "react-firebase-auth-8d71d",
+    storageBucket: "react-firebase-auth-8d71d.appspot.com",
+    messagingSenderId: "412811769984",
+    appId: "1:412811769984:web:7310720d95c56cd7774e65"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
